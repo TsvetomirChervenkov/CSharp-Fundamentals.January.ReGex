@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05.Excercise - NetherRealm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06.Excercise E-mailValidator", "T06.Excercise E-mailValidator\T06.Excercise E-mailValidator.csproj", "{C6D1E715-4B01-4876-89C9-6FCA2DF2C839}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01.Lab.Name Validator", "T01.Lab.Name Validator\T01.Lab.Name Validator.csproj", "{B36C4A95-4C79-4FEF-AD69-8AF0B68F8105}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{C6D1E715-4B01-4876-89C9-6FCA2DF2C839}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6D1E715-4B01-4876-89C9-6FCA2DF2C839}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6D1E715-4B01-4876-89C9-6FCA2DF2C839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B36C4A95-4C79-4FEF-AD69-8AF0B68F8105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36C4A95-4C79-4FEF-AD69-8AF0B68F8105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36C4A95-4C79-4FEF-AD69-8AF0B68F8105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36C4A95-4C79-4FEF-AD69-8AF0B68F8105}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
