@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T01.Lab - Name Validator", "ConsoleApp1\T01.Lab - Name Validator.csproj", "{F58EF526-E588-4459-AD3D-12B49575C77E}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T02.Lab - Phone Validator", "T02.Lab - Phone Validator\T02.Lab - Phone Validator.csproj", "{8AFE3D61-D0A5-4330-992B-A92095DF547B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T03.Lab - Date Validator", "T03.Lab - Date Validator\T03.Lab - Date Validator.csproj", "{0B7B9488-FEF0-4B9C-9D9F-7362B5A52A94}"
@@ -19,9 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T04.Excercise - Enigma", "T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05.Excercise - NetherRealms", "T05.Excercise - NetherRealms\T05.Excercise - NetherRealms.csproj", "{8AE1772F-6045-4279-A4C4-E3A1C645D650}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06.Excercise E-mailValidator", "T06.Excercise E-mailValidator\T06.Excercise E-mailValidator.csproj", "{C6D1E715-4B01-4876-89C9-6FCA2DF2C839}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T06.Excercise E-mailValidator", "T06.Excercise E-mailValidator\T06.Excercise E-mailValidator.csproj", "{C6D1E715-4B01-4876-89C9-6FCA2DF2C839}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01.Lab.Name Validator", "T01.Lab.Name Validator\T01.Lab.Name Validator.csproj", "{B36C4A95-4C79-4FEF-AD69-8AF0B68F8105}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T01.Lab.Name Validator", "T01.Lab.Name Validator\T01.Lab.Name Validator.csproj", "{B36C4A95-4C79-4FEF-AD69-8AF0B68F8105}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +27,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F58EF526-E588-4459-AD3D-12B49575C77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F58EF526-E588-4459-AD3D-12B49575C77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F58EF526-E588-4459-AD3D-12B49575C77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F58EF526-E588-4459-AD3D-12B49575C77E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8AFE3D61-D0A5-4330-992B-A92095DF547B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8AFE3D61-D0A5-4330-992B-A92095DF547B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AFE3D61-D0A5-4330-992B-A92095DF547B}.Release|Any CPU.ActiveCfg = Release|Any CPU
