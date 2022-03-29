@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T06.Excercise E-mailValidat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T01.Lab.Name Validator", "T01.Lab.Name Validator\T01.Lab.Name Validator.csproj", "{B36C4A95-4C79-4FEF-AD69-8AF0B68F8105}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02.More Exercise. Rage Quit", "T02.More Exercise. Rage Quit\T02.More Exercise. Rage Quit.csproj", "{41256F2E-E765-4127-804B-8CC2A0E2C377}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T02.More Exercise. Rage Quit", "T02.More Exercise. Rage Quit\T02.More Exercise. Rage Quit.csproj", "{41256F2E-E765-4127-804B-8CC2A0E2C377}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03.More Excercise. Post Office", "T03.More Excercise. Post Office\T03.More Excercise. Post Office.csproj", "{58B91C2E-E4BA-4942-954E-C490835A2C19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T03.More Excercise. Post Office", "T03.More Excercise. Post Office\T03.More Excercise. Post Office.csproj", "{58B91C2E-E4BA-4942-954E-C490835A2C19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04.More Excercise. Santas Secret Helper", "T04.More Excercise. Santas Secret Helper\T04.More Excercise. Santas Secret Helper.csproj", "{29860266-1FDB-45DF-8FE0-4D2F6B634B8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{58B91C2E-E4BA-4942-954E-C490835A2C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58B91C2E-E4BA-4942-954E-C490835A2C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58B91C2E-E4BA-4942-954E-C490835A2C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29860266-1FDB-45DF-8FE0-4D2F6B634B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29860266-1FDB-45DF-8FE0-4D2F6B634B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29860266-1FDB-45DF-8FE0-4D2F6B634B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29860266-1FDB-45DF-8FE0-4D2F6B634B8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
