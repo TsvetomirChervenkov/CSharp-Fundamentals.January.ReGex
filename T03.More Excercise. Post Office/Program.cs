@@ -29,8 +29,8 @@ namespace T03.More_Excercise._Post_Office
                 foreach  (Match match in matchAscii)
                 {
                     
-                    int digit = int.Parse(match.Groups["ascii"].Value);
-                    char currChar = (char)digit;
+                    int asciiDigit = int.Parse(match.Groups["ascii"].Value);
+                    char currChar = (char)asciiDigit;
                     if (currChar == character)
                     {
                         int lenght = int.Parse(match.Groups["lenght"].Value);
